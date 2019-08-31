@@ -1,0 +1,9 @@
+---
+applications:
+  - name: clj-pg-query
+    buildpack: java_buildpack
+    path: target/server.jar
+    memory: 1024M
+    timeout : 120
+env:
+  API-KEY: < Your secret API key >
