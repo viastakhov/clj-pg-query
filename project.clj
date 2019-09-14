@@ -4,7 +4,7 @@
 
 (defproject clj-pg-query "1.1.0-SNAPSHOT"
   :description "A microservice for talking to PostgreSQL instances"
-  :url "https://github.build.ge.com/RN-SCPDR-Test/clj-pg-query"
+  :url "https://github.com/viastakhov/clj-pg-query"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [metosin/compojure-api "1.1.11"]
