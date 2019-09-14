@@ -26,8 +26,8 @@
        :data {:info {:title "clj-pg-query"
                      :description "A microservice for talking to PostgreSQL instances"
                      :contact {:name "Vladimir Astakhov"
-                               :email "vladimir.astakhov@bhge.com"
-                               :url "https://github.build.ge.com/RN-SCPDR-Test/clj-pg-query"}
+                               :email "viastakhov@mail.ru"
+                               :url "https://github.com/viastakhov/clj-pg-query"}
                      :version "1.1.0"
                      :license {:name "Eclipse Public License"
                                :url "http://www.eclipse.org/legal/epl-v10.html"}}
